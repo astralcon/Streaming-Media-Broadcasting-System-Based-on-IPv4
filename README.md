@@ -21,6 +21,7 @@
 
 ## 系统框架
 
+![系统框架图](https://user-images.githubusercontent.com/46079639/174961551-a048afc3-6574-4b03-a8e9-a177e24031ed.jpg)
 
 
 ## 使用说明
